@@ -9,8 +9,13 @@ monero
 aeon
 zcash
 dashcoin
-
+komodo
+0x
 verge
-golem brings docker
-siacoin brings hard drive space
+
+
+future factors of decentralized super computering power
+golem
+siacoin decentralized storage space
+
 tradecoin
